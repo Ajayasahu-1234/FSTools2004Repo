@@ -8,7 +8,8 @@ public class Arithmatic {
   
 	
 	public double sub(double x, double y) {
-		return x-y;
-
+	   // return x-y;
+		double z = x-y;
+		return z;
 	}
 }
