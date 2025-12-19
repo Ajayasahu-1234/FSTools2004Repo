@@ -2,13 +2,12 @@ package com.nit.main;
 
 public class Arithmatic {
 
-         
-	public int sum(int x, int y) {
+	public  double sum(double x,double y) {
 		return x+y;
 	}
   
 	
-	public int sub(int x, int y) {
+	public double sub(double x, double y) {
 		return x-y;
 
 	}
